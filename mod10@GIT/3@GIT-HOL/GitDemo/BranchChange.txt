@@ -1,0 +1,2 @@
+Changes made in GitNewBranch
+This file demonstrates branching in Git.
